@@ -176,9 +176,6 @@ TaskFlow/
 │   ├── 04-task-modal.png
 │   ├── 05-mobile-view.png
 │   └── 06-settings-view.png
-├── scripts/
-│   ├── capture-screenshots.js   # Automated screenshot generation script
-│   └── generate-pdf.js          # Puppeteer-based PDF report compiler
 └── src/
     ├── App.jsx                  # Root App component integrating providers
     ├── main.jsx                 # React 18 DOM bootstrapping
